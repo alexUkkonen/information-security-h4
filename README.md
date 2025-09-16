@@ -11,7 +11,7 @@ m## OSWAP
 
 ## Installing WebGoat
 * When i was installing the Jdk it wasn't working. I had to look it up and install it with the command ``` $ sudo apt-get install defauld-jdk ``` So i don't know if this is the correct jdk
-## WebGoat 4
+## WebGoat GENERAL/DEVTOOLS
 <img width="2722" height="1491" alt="image" src="https://github.com/user-attachments/assets/8c043090-a3b6-4de7-8318-e2d9af53af78" />
 
 WebGoat 4 was relatively simple, just type a command in to the console
